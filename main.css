@@ -1,0 +1,13 @@
+body{
+    background-color:lightblue
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium';
+    color:black;
+}
+p{
+font-family: 'Times New Roman';
+font-style: inherit;
+border: 3px;
+}
